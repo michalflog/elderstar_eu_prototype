@@ -12,8 +12,8 @@
 				"Mac",
 				"Linux"
 			]
-    },
-    {
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		},
@@ -33,5 +33,8 @@
 			"Name": "GeometryScripting",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
